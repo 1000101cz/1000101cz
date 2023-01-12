@@ -1,4 +1,4 @@
-# Thats my GitHub
+# That's my GitHub account
 
 ## Experience
 
