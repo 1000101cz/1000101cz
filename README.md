@@ -20,4 +20,7 @@
 * Also: 
 
   * **Java**, **Rust**, **VHDL**, **Cisco IOS**
-  
+
+
+
+I also have [my own webpage](https://js435-4qaaa-aaaal-abvna-cai.ic0.app/) lol 
