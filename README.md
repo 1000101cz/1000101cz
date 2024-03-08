@@ -6,7 +6,7 @@
 
   * Development of application for production anomaly detection using Neural Networks
   * Development of application for production data visualization and analysis
-  * Python, NumPy, PyQT, TensorFlow, matplotlib, pyqtgraph
+  * Python, NumPy, PyQT, TensorFlow, matplotlib, pyqtgraph, Pandas, SQL
 
 ## Education
 
@@ -20,7 +20,7 @@
 * **C**, **Python**
 * Also: 
 
-  * **Java**, **Rust**, **VHDL**, **Cisco IOS**
+  * **Java**, **Rust**, **VHDL**, **Cisco IOS**, **SQL**
 
 
 
