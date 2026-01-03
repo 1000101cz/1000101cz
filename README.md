@@ -14,6 +14,7 @@
 
   * Cybernetics and Robotics (2020-2022)
   * Open Informatics: Internet of Things (2022 - 2025)
+  * Open Informatics: Cyber Security (2025 - present)
   
 ## Skills
 
