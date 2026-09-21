@@ -2,7 +2,7 @@
 
 ## Experience
 
-* **Data Analyst** - Robert Bosch s.r.o. *(September 2022 - present)*
+* **Data Analyst** - Robert Bosch s.r.o. *(September 2022 - September 2026)*
 
   * Development of application for production anomaly detection using Neural Networks
   * Development of application for production data visualization and analysis
@@ -14,7 +14,7 @@
 
   * Cybernetics and Robotics (2020-2022)
   * Open Informatics: Internet of Things (2022 - 2025)
-  * Open Informatics: Cyber Security (2025 - present)
+  * Open Informatics: Cyber Security (2025 - 2026)
   
 ## Skills
 
